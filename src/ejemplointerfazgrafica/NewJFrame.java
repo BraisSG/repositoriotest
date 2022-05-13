@@ -97,6 +97,7 @@ public class NewJFrame extends javax.swing.JFrame {
             public void run() {
                 new NewJFrame().setVisible(true);
                 System.out.println("prueba");
+                // Esto es un mensaje de prueba
             }
            
         });
